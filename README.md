@@ -1,4 +1,4 @@
-# dental
+# linkedin vuejs template
 
 ## Project setup
 ```
